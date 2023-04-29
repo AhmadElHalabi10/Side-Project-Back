@@ -36,3 +36,4 @@ app.listen(
 
 app.use("/api/user", userRoute);
 app.use("/api/category", categoryRoute);
+app.use("/api/product", productRoute);
